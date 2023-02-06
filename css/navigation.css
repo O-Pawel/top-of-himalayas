@@ -1,0 +1,36 @@
+.navigation {
+    border: 2px solid grey;
+    margin-top: 50px;
+    background-color: #1799ab;
+}
+
+.navigation__list {
+    text-align: center;
+}
+
+.navigation__listItem {
+    display: inline-block;
+    margin: 8px;
+    white-space: nowrap;
+}
+
+.navigation__link {
+    color: rgb(56, 108, 238);
+    text-decoration: none;
+    background-color: rgb(255, 206, 133);
+    margin: auto 5px;
+    padding: 5px 10px;
+    font-size: 20px;
+    border-radius: 30px;
+}
+
+.navigation__link:visited {
+    color: rgb(56, 108, 238);
+}
+
+.navigation__link:hover {
+    border: 1px solid;
+    color: crimson;
+    background-color: antiquewhite;
+    font-weight: bold;
+}

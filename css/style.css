@@ -1,0 +1,41 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    max-width: 1280px;
+    margin: 0 auto;
+    color: #333;
+}
+
+.body--darkTheme {
+    color: #eee;
+    background-color: #222;
+}
+
+.up {
+    color: rgb(56, 108, 238);
+    text-decoration: none;
+    background-color: rgb(255, 206, 133);
+    padding: 3px 5px;
+    font-size: 16px;
+    border-radius: 12px;
+    margin: 12px 5px;
+    display: inline-block;
+}
+
+.up:visited {
+    color: rgb(56, 108, 238);
+}
+
+.up:hover {
+    border: 1px solid;
+    color: crimson;
+    background-color: antiquewhite;
+    font-weight: bold;
+}

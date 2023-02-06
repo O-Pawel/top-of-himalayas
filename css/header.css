@@ -1,0 +1,15 @@
+.header__title {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 48px;
+    text-shadow: 2px 5px 5px #6380df;
+}
+
+.header--others {
+    margin-top: 40px;
+    font-style: italic;
+    text-shadow: 2px 4px 5px #7c95e7;
+    padding: 20px 0 0 0;
+    text-align: center;
+    font-size: 36px;
+}
