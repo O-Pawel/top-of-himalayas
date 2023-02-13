@@ -12,4 +12,6 @@
         changeBackgroundButton.addEventListener("click", toggleBackground);
 
     }
+
+    init();
 }
