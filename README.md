@@ -1,5 +1,7 @@
 # The 14 Highest Peaks of the World
 
+## Description
+
 This is a website about people who have climbed the 14 highest peaks in the world.
 I chose four that I want to write about. Three of them are Polish.
 
