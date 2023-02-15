@@ -16,3 +16,5 @@ I chose four that I want to write about. Three of them are Polish.
 - Find out when and who was the first to reach each of the world's 8,000m peaks
 - First winter ascent of every peak
 - Some information about four Himalayan climbers
+
+All this information you can find here: https://o-pawel.github.io/top-of-himalayas/
