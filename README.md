@@ -5,10 +5,14 @@
 This is a website about people who have climbed the 14 highest peaks in the world.
 I chose four that I want to write about. Three of them are Polish.
 
-- Reinhold Messner  🇮🇹
-- Jerzy Kukuczka  🇵🇱
-- Krzysztof Wielicki  🇵🇱
-- Piotr Pustelnik  🇵🇱
+1. Reinhold Messner  🇮🇹
+2. Jerzy Kukuczka  🇵🇱
+3. Krzysztof Wielicki  🇵🇱
+4. Piotr Pustelnik  🇵🇱
+
+## Demo
+
+![website](images/himalayas.png "website")
 
 ## Features
 
