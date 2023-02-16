@@ -18,3 +18,9 @@ I chose four that I want to write about. Three of them are Polish.
 - Some information about four Himalayan climbers
 
 All this information you can find here: https://o-pawel.github.io/top-of-himalayas/
+
+## Technolohies used in this project:
+- HTML
+- CSS
+- JS 
+- BEM
